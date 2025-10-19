@@ -167,7 +167,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 🧩 Maintainer
-**Nova Agustinai**  
+**Nova Agustina**  
 📧 nova@utb-univ.ac.id  
 🌐 [GitHub: nova0893](https://github.com/nova0893)
 
