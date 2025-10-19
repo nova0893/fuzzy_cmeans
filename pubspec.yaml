@@ -1,5 +1,5 @@
 name: fuzzy_cmeans
-description: "A new Flutter project."
+description: "A Dart/Flutter library for Fuzzy C-Means clustering with visualization support and built-in validity metrics."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 
