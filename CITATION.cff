@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "fuzzy_cmeans: A Dart/Flutter library for Fuzzy C-Means clustering and visualization"
+version: 0.1.0
+doi: 10.5281/zenodo.xxxxxxx   # isi nanti
+date-released: 2025-10-19
+
+authors:
+  - family-names: "Agustina"
+    given-names: "Nova"
+    affiliation: "Universitas Teknologi Bandung"
+    orcid: "https://orcid.org/0000-0003-3554-5767"
+
+repository-code: "https://github.com/nova0893/fuzzy_cmeans"
+license: "MIT"
+type: software
+keywords:
+  - fuzzy c-means
+  - clustering
+  - dart
+  - flutter
+  - machine learning
