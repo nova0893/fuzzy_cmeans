@@ -171,6 +171,6 @@ This project is licensed under the [MIT License](LICENSE).
 📧 nova@utb-univ.ac.id  
 🌐 [GitHub: nova0893](https://github.com/nova0893)
 
----
+----
 
 > _Developed as part of a research initiative on mobile machine learning and interactive visualization._
