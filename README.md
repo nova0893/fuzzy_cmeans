@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build](https://github.com/nova0893/fuzzy_cmeans/actions/workflows/ci.yml/badge.svg)](https://github.com/nova0893/fuzzy_cmeans/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/nova0893/fuzzy_cmeans/branch/main/graph/badge.svg)](https://codecov.io/gh/nova0893/fuzzy_cmeans)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/1074712506.svg)](https://doi.org/10.5281/zenodo.17388943)
 
 ---
 
